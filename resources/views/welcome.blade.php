@@ -32,5 +32,8 @@ href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
  <script
 src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.bundle.min.js"></script>
 <a href="/contact">Contact Us</a>
+<footer>
+    <p>&copy; 2024 Your Website. All rights reserved.</p>
+</footer>
 </body>
 </html>
